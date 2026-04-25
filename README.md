@@ -29,5 +29,5 @@ This site deploys to GitHub Pages from the `main` branch using `.github/workflow
 Public URL:
 
 ```text
-https://work-vamsikrishnapujari.github.io/career-ops-portfolio/
+https://work-vamsikrishnapujari.github.io/career-portfolio/
 ```
